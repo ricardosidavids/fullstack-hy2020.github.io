@@ -1163,7 +1163,7 @@ Copilot is also useful in error situations, by copying the error message into Co
 
 ![copilot explaining the error and suggesting a fix](../../images/1/gpt5.png)
 
-Copilot's chat also enables the creation of larger set of functionality
+Copilot's chat also enables the creation of larger set of functionality:
 
 ![copilot creating a login component on request](../../images/1/gpt6.png)
 
